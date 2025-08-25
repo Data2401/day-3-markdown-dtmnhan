@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Thuy Minh Nhan Do"
 date: "Data 2401"
 output: html_document
 ---
@@ -34,4 +34,35 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists! 
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
+
+## Your work here
+
+### Wise words
+
+> "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."
+> Author's name: Theodore Isaac Rubin
+[Source of the quote](https://curiosaday.substack.com/p/kindness-is-more-important-than-wisdom)
+
+### My semester
+
+|**Courses number**| _Courses titles_                 |Instructor 
+|:-----------------|:---------------------------------|:--------------
+|**CS 2311**       | _Data Struc/Algorithms w/Python_ |John Henderson
+|**DATA 2401**     | _Data Science I_                 |Katherine Shoemaker
+|**MATH 2405**     | _Discrete Mathematical Struct_   |Mukesh Kumar
+|**MATH 2421**     | _Differ & Integral Calculus_     |Sergiy Koshkin
+|**UHD 2303**      | _University Seminar-Science_     |Mary Parker
+
+### I recommend 
+#### Selena Gomez
+
+*I, I love you like a love song, baby* 
+
+_Stars Dance_ (2013), 
+_Revival_ (2015), 
+_Rare_ (2020), 
+_Revelación_ (2021)
+
+
+
  
